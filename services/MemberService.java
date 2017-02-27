@@ -150,7 +150,7 @@ public class MemberService {
 	      // Sender's email ID needs to be mentioned
 	      String from = "admin@batuhanyaman.com";
 	      final String username = "admin@batuhanyaman.com";//change accordingly
-	      final String password = "batu9595";//change accordingly
+	      final String password = "password";//change accordingly
 
 	      // Assuming you are sending email through relay.jangosmtp.net
 	      String host = "mail.batuhanyaman.com";
