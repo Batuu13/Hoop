@@ -22,7 +22,8 @@ What you can do with this backend:
 Screenshot of android client. UI is not yet polished and is in alpha version.
 
 
-![alt tag](http://www.batuhanyaman.com/wp-content/uploads/1.jpg =100x)
+
+<img src="http://www.batuhanyaman.com/wp-content/uploads/1.jpg" width="100">
 ![alt tag](http://www.batuhanyaman.com/wp-content/uploads/2.jpg)
 ![alt tag](http://www.batuhanyaman.com/wp-content/uploads/3.jpg)
 ![alt tag](http://www.batuhanyaman.com/wp-content/uploads/4.jpg)
