@@ -22,10 +22,10 @@ What you can do with this backend:
 Screenshot of android client. UI is not yet polished and is in alpha version.
 
 
+<img src="http://www.batuhanyaman.com/wp-content/uploads/1.jpg" width="250">
+<img src="http://www.batuhanyaman.com/wp-content/uploads/2.jpg" width="250">
+<img src="http://www.batuhanyaman.com/wp-content/uploads/3.jpg" width="250">
+<img src="http://www.batuhanyaman.com/wp-content/uploads/4.jpg" width="250">
+<img src="http://www.batuhanyaman.com/wp-content/uploads/5.jpg" width="250">
+<img src="http://www.batuhanyaman.com/wp-content/uploads/6.jpg" width="250">
 
-<img src="http://www.batuhanyaman.com/wp-content/uploads/1.jpg" width="100">
-![alt tag](http://www.batuhanyaman.com/wp-content/uploads/2.jpg)
-![alt tag](http://www.batuhanyaman.com/wp-content/uploads/3.jpg)
-![alt tag](http://www.batuhanyaman.com/wp-content/uploads/4.jpg)
-![alt tag](http://www.batuhanyaman.com/wp-content/uploads/5.jpg)
-![alt tag](http://www.batuhanyaman.com/wp-content/uploads/6.jpg)
