@@ -62,10 +62,10 @@ public class SocketServlet{
     	 clusterCollection.findOneAndUpdate(filter,update);
  		//get room
  		FindIterable<Document> room =  clusterCollection.find(filter);
-    	 
+ 		
     	//Send online count
     	@SuppressWarnings("unchecked")
-		int onlineCount = ((ArrayList<Document>) room.first().get("onlineMembers")).size();
+		int onlineCount = 5;
     	for(Session user : sessionList)
         {
         	         
